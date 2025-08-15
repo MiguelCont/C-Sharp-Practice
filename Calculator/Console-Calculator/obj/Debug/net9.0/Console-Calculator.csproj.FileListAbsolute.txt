@@ -1,0 +1,14 @@
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\bin\Debug\net9.0\Console-Calculator.exe
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\bin\Debug\net9.0\Console-Calculator.deps.json
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\bin\Debug\net9.0\Console-Calculator.runtimeconfig.json
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\bin\Debug\net9.0\Console-Calculator.dll
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\bin\Debug\net9.0\Console-Calculator.pdb
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.AssemblyInfo.cs
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.dll
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\refint\Console-Calculator.dll
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.pdb
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.genruntimeconfig.cache
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\ref\Console-Calculator.dll
