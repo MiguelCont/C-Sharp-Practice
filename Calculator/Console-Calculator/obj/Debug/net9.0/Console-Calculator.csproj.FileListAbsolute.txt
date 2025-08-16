@@ -12,3 +12,4 @@ C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\
 C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.pdb
 C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.genruntimeconfig.cache
 C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\ref\Console-Calculator.dll
+C:\Users\migue\Desktop\C-Sharp-Practice\Calculator\Console-Calculator\obj\Debug\net9.0\Console-Calculator.sourcelink.json
